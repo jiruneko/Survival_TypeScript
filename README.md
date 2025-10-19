@@ -1,1 +1,1 @@
-# Survival_TypeScript
+# Survival TypeScript Tutorial
